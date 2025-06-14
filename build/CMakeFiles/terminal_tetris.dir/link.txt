@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/terminal_tetris.dir/tetris.cpp.o CMakeFiles/terminal_tetris.dir/terminal_helpers.cpp.o -o terminal_tetris

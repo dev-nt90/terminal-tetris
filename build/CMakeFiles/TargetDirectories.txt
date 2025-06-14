@@ -1,3 +1,0 @@
-/Users/nathanaelthompson/dev/src/terminal-tetris/build/CMakeFiles/terminal_tetris.dir
-/Users/nathanaelthompson/dev/src/terminal-tetris/build/CMakeFiles/edit_cache.dir
-/Users/nathanaelthompson/dev/src/terminal-tetris/build/CMakeFiles/rebuild_cache.dir
